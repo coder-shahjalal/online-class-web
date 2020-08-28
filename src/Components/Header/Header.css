@@ -1,0 +1,29 @@
+.header img {
+  height: 50px;
+  text-align: center;
+}
+.header {
+  background-color: darkgray;
+  border: 2px solid #8a7c72;
+  display: flex;
+  margin-top: 5px;
+  height: 70px;
+  margin-bottom: 50px;
+}
+
+.header a {
+  text-decoration: none;
+  color: white;
+  margin-left: 35px;
+  padding: 5px;
+  background-color: #ea5252;
+  border-radius: 5px;
+}
+
+.header a:hover {
+  color: wheat;
+}
+
+.anchor-align {
+  float: right;
+}
